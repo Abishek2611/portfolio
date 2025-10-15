@@ -1,0 +1,16 @@
+
+      <div class="services-box">
+      <i class='bxr  bx-code'  ></i> 
+      <h3>Graphics Design</h3>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus nobis pariatur hic placeat repellendus suscipit numquam totam corporis aperiam? Quo?</p>
+      <a href="#" class="btn">Read More</a>
+      </div>
+      
+      <div class="services-box">
+      <i class='bxr  bx-code'  ></i> 
+      <h3>Frontend</h3>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus nobis pariatur hic placeat repellendus suscipit numquam totam corporis aperiam? Quo?</p>
+      <a href="#" class="btn">Read More</a>
+      </div>
+
+     
